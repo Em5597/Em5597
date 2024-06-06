@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Noemi
 - 👩🏻‍🎓 Bachelor's Degree in Computer Science
-- 👩🏻‍🎓 Matser's Degree in Computer Science
+- 👩🏻‍🎓 Master's Degree in Computer Science
 - ⚽️ Sport
 - 🎮 VideoGames
 - 🎬 TV Series 
